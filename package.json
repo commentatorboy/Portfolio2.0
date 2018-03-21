@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sequencejs": "^2.0.0"
+  }
+}
